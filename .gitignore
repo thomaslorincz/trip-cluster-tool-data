@@ -1,4 +1,5 @@
 /*.csv
+.idea/
 venv/
 output/*.csv
 output/*.csv.br
