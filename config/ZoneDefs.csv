@@ -1,0 +1,1719 @@
+TAZ,District,Sector,LUZ,Location,PlanDist,CityI,CityII,CityIII,Municipality,CityI-NC,CityII-NC,CityIII-NC
+101,1,1,101,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+102,1,1,102,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+103,1,1,103,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+104,1,1,104,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+105,1,1,105,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+106,1,1,106,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+107,1,1,107,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+108,1,1,108,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+109,1,1,109,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+110,1,1,110,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+111,1,1,111,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+112,1,1,112,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+113,1,1,113,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+114,1,1,114,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+115,1,1,115,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+116,1,1,116,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+117,1,1,117,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+118,1,1,118,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+119,1,1,119,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+120,1,1,120,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+121,1,1,121,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+122,1,1,122,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+123,1,1,123,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+124,1,1,124,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+125,1,1,125,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+126,1,1,126,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+127,1,1,127,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+128,1,1,128,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+129,1,1,129,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+130,1,1,130,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+131,1,1,131,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+132,1,1,132,City,Central,City Centre,Rest City,Rest City,1-Edmonton,NC,City,City
+133,1,1,133,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+201,2,2,201,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+202,2,2,202,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+203,2,2,203,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+204,2,2,204,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+205,2,2,205,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+206,2,2,206,City,Scona,Secondary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+207,2,6,207,City,Scona,Secondary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+208,2,2,208,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+209,2,2,209,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+210,2,2,210,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+211,2,2,211,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+212,2,6,212,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+213,2,2,213,City,Scona,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+214,2,2,214,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+215,2,6,215,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+216,2,6,216,City,Scona,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+301,3,7,301,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+302,3,7,302,City,Scona,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+303,3,7,303,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+304,3,7,304,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+305,3,7,305,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+306,3,7,306,City,Scona,Rest City,Primary Node,Primary Corridor,1-Edmonton,City,NC,NC
+307,3,7,307,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+308,3,7,308,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+309,3,7,309,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+310,3,7,310,City,Scona,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+311,3,7,311,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+312,3,7,312,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+313,3,7,313,City,Scona,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+314,3,7,314,City,Scona,Primary Corridor,Primary Corridor,Rest City,1-Edmonton,NC,NC,City
+315,3,7,315,City,Scona,Primary Corridor,Primary Corridor,Rest City,1-Edmonton,NC,NC,City
+316,3,7,316,City,Scona,Primary Corridor,Primary Corridor,Rest City,1-Edmonton,NC,NC,City
+317,3,7,317,City,Scona,Primary Corridor,Primary Corridor,Rest City,1-Edmonton,NC,NC,City
+318,3,7,318,City,Scona,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+319,3,7,319,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+320,3,7,320,City,Scona,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+321,3,7,321,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+322,3,7,322,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+323,3,7,323,City,Scona,Rest City,Primary Node,Primary Corridor,1-Edmonton,City,NC,NC
+324,3,7,324,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+325,3,7,325,City,Scona,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+326,3,7,326,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+327,3,7,327,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+328,3,7,328,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+329,3,7,329,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+330,3,7,330,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+331,3,7,331,City,Scona,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+332,3,7,332,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+333,3,7,333,City,Scona,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+334,3,7,334,City,Scona,Rest City,Secondary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+335,3,7,335,City,Scona,Secondary Node,Primary Corridor,Rest City,1-Edmonton,NC,NC,City
+336,3,7,336,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+401,4,12,401,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+402,4,12,402,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+403,4,12,403,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+404,4,12,404,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+405,4,12,405,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+406,4,12,406,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+407,4,12,407,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+408,4,12,408,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+409,4,12,409,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+410,4,12,410,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+411,4,12,411,City,Whitemud,Rest City,Secondary Node,Primary Corridor,1-Edmonton,City,NC,NC
+412,4,12,412,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+413,4,12,413,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+414,4,12,414,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+415,4,12,415,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+416,4,12,416,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+417,4,12,417,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+418,4,12,418,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+419,4,12,419,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+420,4,12,420,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+421,4,12,421,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+501,5,8,501,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+502,5,8,502,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+503,5,8,503,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+504,5,8,504,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+505,5,8,505,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+506,5,8,506,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+507,5,8,507,City,Jasper Place,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+508,5,8,508,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+509,5,8,509,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+510,5,8,510,City,Jasper Place,Primary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+511,5,8,511,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+512,5,8,512,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+513,5,8,513,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+514,5,8,514,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+515,5,8,515,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+516,5,8,516,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+517,5,8,517,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+518,5,8,518,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+519,5,8,519,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+520,5,8,520,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+521,5,8,521,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+522,5,8,522,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+523,5,8,523,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+524,5,8,524,City,Jasper Place,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+525,5,8,525,City,Jasper Place,Primary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+526,5,8,526,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+527,5,8,527,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+528,5,8,528,City,Jasper Place,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+529,5,8,529,City,Jasper Place,Primary Corridor,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+530,5,8,530,City,Jasper Place,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+531,5,8,531,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+532,5,8,532,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+533,5,8,533,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+534,5,8,534,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+535,5,8,535,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+536,5,8,536,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+537,5,8,537,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+538,5,8,538,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+539,5,8,539,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+540,5,8,540,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+541,5,8,541,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+542,5,8,542,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+543,5,8,543,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+544,5,8,544,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+545,5,8,545,City,Central,Secondary Corridor,Rest City,Secondary Corridor,1-Edmonton,NC,City,NC
+546,5,8,546,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+547,5,8,547,City,Central,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+548,5,8,548,City,Central,Primary Corridor,Tertiary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+549,5,8,549,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+550,5,8,550,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+551,5,8,551,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+552,5,8,552,City,Central,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+553,5,8,553,City,Central,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+554,5,8,554,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+555,5,8,555,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+556,5,8,556,City,Jasper Place,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+557,5,8,557,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+558,5,8,558,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+559,5,8,559,City,Jasper Place,Primary Corridor,Tertiary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+560,5,8,560,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+561,5,8,561,City,Jasper Place,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+601,6,13,601,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+602,6,13,602,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+603,6,13,603,City,West Edmonton,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+604,6,13,604,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+605,6,13,605,City,West Edmonton,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+606,6,13,606,City,West Edmonton,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+607,6,13,607,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+608,6,13,608,City,West Edmonton,Primary Node,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+609,6,13,609,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+610,6,13,610,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+611,6,13,611,City,West Edmonton,Primary Node,Primary Node,Primary Node,1-Edmonton,NC,NC,NC
+612,6,13,612,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+613,6,13,613,City,West Edmonton,Rest City,Secondary Corridor,Rest City,1-Edmonton,City,NC,City
+614,6,13,614,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+615,6,13,615,City,West Edmonton,Rest City,Secondary Corridor,Rest City,1-Edmonton,City,NC,City
+616,6,13,616,City,West Edmonton,Primary Node,Secondary Corridor,Secondary Corridor,1-Edmonton,NC,NC,NC
+617,6,13,617,City,West Edmonton,Primary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+701,7,9,701,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+702,7,9,702,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+703,7,9,703,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+704,7,9,704,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+705,7,9,705,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+706,7,9,706,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+707,7,9,707,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+708,7,9,708,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+709,7,9,709,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+710,7,9,710,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+711,7,9,711,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+712,7,9,712,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+713,7,9,713,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+714,7,9,714,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+715,7,9,715,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+716,7,9,716,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+717,7,9,717,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+718,7,9,718,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+719,7,9,719,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+720,7,9,720,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+721,7,9,721,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+722,7,9,722,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+723,7,9,723,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+724,7,9,724,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+725,7,9,725,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+726,7,9,726,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+801,8,4,801,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+802,8,4,802,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+803,8,4,803,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+804,8,4,804,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+805,8,4,805,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+806,8,4,806,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+807,8,4,807,City,118 Avenue,Primary Node,Secondary Corridor,Rest City,1-Edmonton,NC,NC,City
+808,8,4,808,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+809,8,4,809,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+810,8,4,810,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+811,8,4,811,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+812,8,4,812,City,118 Avenue,Primary Node,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+813,8,5,813,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+814,8,5,814,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+815,8,5,815,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+816,8,5,816,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+817,8,5,817,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+818,8,5,818,City,118 Avenue,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+819,8,5,819,City,118 Avenue,Rest City,Secondary Node,Secondary Node,1-Edmonton,City,NC,NC
+820,8,4,820,City,Central,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+821,8,4,821,City,Central,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+822,8,4,822,City,118 Avenue,Primary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+823,8,5,823,City,118 Avenue,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+824,8,4,824,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+825,8,4,825,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+826,8,5,826,City,118 Avenue,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+827,8,4,827,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+828,8,4,828,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+829,8,4,829,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+830,8,4,830,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+831,8,4,831,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+832,8,4,832,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+833,8,4,833,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+834,8,4,834,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+835,8,5,835,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+836,8,5,836,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+837,8,4,837,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+838,8,4,838,City,118 Avenue,Primary Node,Primary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+839,8,4,839,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+840,8,4,840,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+841,8,4,841,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+842,8,4,842,City,118 Avenue,Primary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+843,8,5,843,City,118 Avenue,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+844,8,4,844,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+845,8,4,845,City,118 Avenue,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+846,8,4,846,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+847,8,4,847,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+848,8,5,848,City,118 Avenue,Primary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+849,8,4,849,City,Central,Secondary Node,Secondary Node,Rest City,1-Edmonton,NC,NC,City
+850,8,4,850,City,Central,Secondary Node,Secondary Node,Rest City,1-Edmonton,NC,NC,City
+851,8,5,851,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+852,8,5,852,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+853,8,4,853,City,118 Avenue,Primary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+854,8,5,854,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+855,8,4,855,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+856,8,4,856,City,118 Avenue,Primary Corridor,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+857,8,4,857,City,118 Avenue,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+858,8,5,858,City,118 Avenue,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+859,8,5,859,City,118 Avenue,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+860,8,5,860,City,118 Avenue,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+901,9,4,901,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+902,9,4,902,City,Northwest,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+903,9,4,903,City,Northwest,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+904,9,4,904,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+905,9,4,905,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+906,9,4,906,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+907,9,4,907,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+908,9,4,908,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+909,9,4,909,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+910,9,4,910,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+911,9,4,911,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+912,9,4,912,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+913,9,4,913,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+914,9,4,914,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+915,9,4,915,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+916,9,4,916,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+917,9,4,917,City,Northwest,Rest City,Secondary Node,Secondary Corridor,1-Edmonton,City,NC,NC
+918,9,4,918,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+919,9,4,919,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+920,9,4,920,City,Northwest,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+921,9,4,921,City,Northwest,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+922,9,4,922,City,Northwest,Rest City,Secondary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+923,9,4,923,City,Northwest,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+924,9,4,924,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1001,10,5,1001,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1002,10,5,1002,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1003,10,5,1003,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1004,10,5,1004,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1005,10,5,1005,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1006,10,5,1006,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1007,10,5,1007,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1008,10,5,1008,City,Northeast,Rest City,Secondary Node,Primary Corridor,1-Edmonton,City,NC,NC
+1009,10,5,1009,City,Northeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1010,10,5,1010,City,Northwest,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1011,10,5,1011,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1012,10,5,1012,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1013,10,5,1013,City,Northeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1014,10,5,1014,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1015,10,5,1015,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1016,10,5,1016,City,Northeast,Rest City,Primary Node,Secondary Corridor,1-Edmonton,City,NC,NC
+1017,10,5,1017,City,Northeast,Tertiary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1018,10,5,1018,City,Northeast,Rest City,Primary Node,Primary Corridor,1-Edmonton,City,NC,NC
+1019,10,5,1019,City,Northeast,Rest City,Primary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1020,10,5,1020,City,Northeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1021,10,5,1021,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1022,10,5,1022,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1023,10,5,1023,City,Northwest,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1101,11,5,1101,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1102,11,5,1102,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1103,11,5,1103,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1104,11,5,1104,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1105,11,5,1105,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1106,11,5,1106,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1107,11,5,1107,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1108,11,5,1108,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1109,11,5,1109,City,118 Avenue,Rest City,Rest City,Secondary Node,1-Edmonton,City,City,NC
+1110,11,5,1110,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1111,11,5,1111,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1112,11,5,1112,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1113,11,5,1113,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1114,11,5,1114,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1115,11,5,1115,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1116,11,5,1116,City,118 Avenue,Primary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1117,11,5,1117,City,118 Avenue,Primary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1118,11,5,1118,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1119,11,5,1119,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1120,11,5,1120,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1121,11,5,1121,City,118 Avenue,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1122,11,5,1122,City,118 Avenue,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1123,11,5,1123,City,118 Avenue,Rest City,Primary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1201,12,10,1201,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1202,12,10,1202,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1203,12,10,1203,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1204,12,10,1204,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1205,12,10,1205,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1206,12,10,1206,City,Northeast,Secondary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1207,12,10,1207,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1208,12,10,1208,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1209,12,10,1209,City,Northeast,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1210,12,10,1210,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1211,12,10,1211,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1212,12,10,1212,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1213,12,10,1213,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1214,12,10,1214,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1215,12,10,1215,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1216,12,10,1216,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1217,12,10,1217,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1218,12,10,1218,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1219,12,10,1219,City,Northeast,Rest City,Primary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1220,12,10,1220,City,Northeast,Secondary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1221,12,10,1221,City,Northeast,Secondary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1222,12,10,1222,City,Northeast,Secondary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1223,12,10,1223,City,Northeast,Tertiary Node,Secondary Node,Secondary Corridor,1-Edmonton,NC,NC,NC
+1224,12,10,1224,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1225,12,10,1225,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1226,12,10,1226,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1227,12,10,1227,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1228,12,10,1228,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1229,12,5,1229,City,Northeast,Rest City,Primary Node,Primary Corridor,1-Edmonton,City,NC,NC
+1230,12,10,1230,City,Northeast,Secondary Node,Primary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1301,13,6,1301,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1302,13,6,1302,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1303,13,6,1303,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1304,13,6,1304,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1305,13,6,1305,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1306,13,6,1306,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1307,13,6,1307,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1308,13,6,1308,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1309,13,6,1309,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1310,13,6,1310,City,Southeast,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1311,13,6,1311,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1312,13,6,1312,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1313,13,6,1313,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1314,13,6,1314,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1315,13,6,1315,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1316,13,6,1316,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1317,13,6,1317,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1318,13,6,1318,City,Southeast,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1319,13,6,1319,City,Southeast,Secondary Node,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+1320,13,6,1320,City,Southeast,Rest City,Secondary Node,Secondary Node,1-Edmonton,City,NC,NC
+1321,13,6,1321,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1322,13,6,1322,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1323,13,6,1323,City,Southeast,Secondary Node,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1324,13,6,1324,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1325,13,6,1325,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1326,13,6,1326,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1327,13,6,1327,City,Southeast,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1328,13,6,1328,City,Southeast,Secondary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+1329,13,6,1329,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1401,14,6,1401,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1402,14,6,1402,City,Southeast,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+1403,14,6,1403,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1404,14,6,1404,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1405,14,6,1405,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1406,14,6,1406,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1407,14,6,1407,City,Scona,Secondary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+1408,14,6,1408,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1409,14,6,1409,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1410,14,11,1410,City,Southeast,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1411,14,11,1411,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1412,14,11,1412,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1413,14,11,1413,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1414,14,6,1414,City,Scona,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1415,14,11,1415,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1416,14,6,1416,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1417,14,11,1417,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1418,14,6,1418,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1419,14,6,1419,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1420,14,6,1420,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1421,14,6,1421,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1422,14,6,1422,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1423,14,6,1423,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1424,14,6,1424,City,Southeast,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1425,14,6,1425,City,Southeast,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1426,14,6,1426,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1427,14,6,1427,City,Southeast,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1428,14,6,1428,City,Southeast,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1429,14,6,1429,City,Southeast,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1430,14,6,1430,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1431,14,6,1431,City,Southeast,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1432,14,11,1432,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1433,14,11,1433,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1434,14,6,1434,City,Scona,Secondary Node,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1435,14,6,1435,City,Scona,Secondary Corridor,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1436,14,6,1436,City,Scona,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+1501,15,11,1501,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1502,15,11,1502,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1503,15,11,1503,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1504,15,11,1504,City,Mill Woods and Meadows,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+1505,15,11,1505,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1506,15,11,1506,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1507,15,11,1507,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1508,15,11,1508,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1509,15,11,1509,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1510,15,11,1510,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1511,15,11,1511,City,Mill Woods and Meadows,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1512,15,11,1512,City,Mill Woods and Meadows,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1513,15,11,1513,City,Mill Woods and Meadows,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1514,15,11,1514,City,Mill Woods and Meadows,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1515,15,11,1515,City,Mill Woods and Meadows,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1516,15,11,1516,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1517,15,11,1517,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1518,15,11,1518,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1519,15,11,1519,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1520,15,11,1520,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1521,15,11,1521,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1522,15,11,1522,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1523,15,11,1523,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1524,15,11,1524,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1525,15,11,1525,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1526,15,11,1526,City,Mill Woods and Meadows,Primary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+1527,15,11,1527,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1528,15,11,1528,City,Mill Woods and Meadows,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1529,15,11,1529,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1530,15,11,1530,City,Mill Woods and Meadows,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+1531,15,11,1531,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1532,15,11,1532,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1533,15,11,1533,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1534,15,11,1534,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1535,15,11,1535,City,Mill Woods and Meadows,Primary Node,Rest City,Secondary Node,1-Edmonton,NC,City,NC
+1536,15,11,1536,City,Mill Woods and Meadows,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+1537,15,11,1537,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1538,15,11,1538,City,Mill Woods and Meadows,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1601,16,11,1601,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1602,16,11,1602,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1603,16,11,1603,City,Mill Woods and Meadows,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+1604,16,11,1604,City,Mill Woods and Meadows,Rest City,Primary Node,Primary Corridor,1-Edmonton,City,NC,NC
+1605,16,11,1605,City,Mill Woods and Meadows,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+1606,16,11,1606,City,Mill Woods and Meadows,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+1607,16,11,1607,City,Mill Woods and Meadows,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+1608,16,11,1608,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1609,16,11,1609,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1610,16,11,1610,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1611,16,11,1611,City,Mill Woods and Meadows,Rest City,Primary Node,Rest City,1-Edmonton,City,NC,City
+1612,16,11,1612,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1701,17,9,1701,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1702,17,9,1702,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1703,17,9,1703,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1704,17,9,1704,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1705,17,9,1705,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1706,17,9,1706,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1707,17,9,1707,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1708,17,9,1708,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1709,17,9,1709,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1710,17,9,1710,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1711,17,9,1711,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1712,17,9,1712,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1713,17,9,1713,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1714,17,9,1714,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1715,17,9,1715,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1716,17,9,1716,City,Jasper Place,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1717,17,9,1717,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1718,17,9,1718,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1801,18,9,1801,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1802,18,9,1802,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1803,18,9,1803,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1804,18,9,1804,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1805,18,9,1805,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1806,18,9,1806,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1807,18,9,1807,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1808,18,9,1808,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1809,18,9,1809,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1810,18,9,1810,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1811,18,9,1811,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1812,18,9,1812,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1813,18,9,1813,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1814,18,9,1814,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1815,18,9,1815,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1816,18,9,1816,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1817,18,9,1817,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1818,18,9,1818,City,Northwest,Rest City,Secondary Corridor,Rest City,1-Edmonton,City,NC,City
+1819,18,9,1819,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1820,18,9,1820,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1821,18,9,1821,City,Northwest,Rest City,Secondary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1822,18,9,1822,City,Northwest,Rest City,Secondary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1823,18,9,1823,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1824,18,9,1824,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1825,18,9,1825,City,Northwest,Rest City,Secondary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+1826,18,9,1826,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1827,18,9,1827,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1828,18,9,1828,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1829,18,9,1829,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1830,18,9,1830,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1831,18,9,1831,City,Northwest,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1832,18,9,1832,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1833,18,9,1833,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1834,18,9,1834,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1835,18,9,1835,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1836,18,9,1836,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1837,18,9,1837,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1838,18,9,1838,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1839,18,9,1839,City,Northwest,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+1840,18,9,1840,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1841,18,9,1841,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1842,18,9,1842,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1843,18,9,1843,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1844,18,9,1844,City,Northwest,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+1845,18,9,1845,City,Northwest,Rest City,Secondary Node,Secondary Corridor,1-Edmonton,City,NC,NC
+1846,18,9,1846,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1847,18,9,1847,City,Northwest,Tertiary Node,Secondary Node,Secondary Corridor,1-Edmonton,NC,NC,NC
+1848,18,9,1848,City,Northwest,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+1849,18,9,1849,City,Northwest,Rest City,Secondary Corridor,Rest City,1-Edmonton,City,NC,City
+1850,18,9,1850,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1901,19,10,1901,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1902,19,10,1902,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1903,19,10,1903,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1904,19,10,1904,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1905,19,10,1905,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1906,19,10,1906,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1907,19,10,1907,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1908,19,10,1908,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1909,19,10,1909,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1910,19,10,1910,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1911,19,10,1911,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1912,19,10,1912,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1913,19,10,1913,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1914,19,10,1914,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1915,19,10,1915,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1916,19,10,1916,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1917,19,10,1917,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+1918,19,10,1918,City,Northwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2001,20,6,2001,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2002,20,11,2002,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2003,20,11,2003,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2004,20,11,2004,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2005,20,11,2005,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2006,20,11,2006,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2007,20,11,2007,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2008,20,11,2008,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2009,20,11,2009,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2010,20,11,2010,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2011,20,11,2011,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2012,20,11,2012,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2013,20,11,2013,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2014,20,11,2014,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2015,20,11,2015,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2016,20,11,2016,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2017,20,11,2017,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2018,20,11,2018,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2019,20,11,2019,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2020,20,11,2020,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2021,20,11,2021,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2022,20,11,2022,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2023,20,11,2023,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2024,20,11,2024,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2025,20,11,2025,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2026,20,6,2026,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2027,20,6,2027,City,Southeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2101,21,11,2101,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2102,21,11,2102,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2103,21,11,2103,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2104,21,11,2104,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2105,21,11,2105,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2106,21,11,2106,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2107,21,11,2107,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2108,21,11,2108,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2109,21,11,2109,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2110,21,11,2110,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2111,21,11,2111,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2112,21,11,2112,City,Mill Woods and Meadows,Tertiary Node,Rest City,Rest City,1-Edmonton,NC,City,City
+2113,21,11,2113,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2114,21,11,2114,City,Mill Woods and Meadows,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2201,22,3,2201,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2202,22,3,2202,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2203,22,3,2203,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2204,22,3,2204,City,Central,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+2205,22,3,2205,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2206,22,3,2206,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2207,22,3,2207,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2208,22,3,2208,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2209,22,3,2209,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2210,22,3,2210,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2211,22,3,2211,City,Central,Primary Node,Primary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+2212,22,3,2212,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2213,22,3,2213,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2214,22,3,2214,City,Central,Primary Corridor,Rest City,Primary Corridor,1-Edmonton,NC,City,NC
+2215,22,3,2215,City,Central,Rest City,Primary Corridor,Primary Corridor,1-Edmonton,City,NC,NC
+2216,22,3,2216,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2217,22,3,2217,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2218,22,3,2218,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2219,22,3,2219,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2220,22,3,2220,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2221,22,3,2221,City,Central,Primary Corridor,Secondary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2222,22,3,2222,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2223,22,3,2223,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2224,22,3,2224,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2225,22,3,2225,City,Central,Primary Node,Secondary Node,City Centre,1-Edmonton,NC,NC,NC
+2226,22,3,2226,City,Central,Primary Node,Secondary Node,Primary Corridor,1-Edmonton,NC,NC,NC
+2227,22,3,2227,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2228,22,3,2228,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2229,22,3,2229,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2230,22,3,2230,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2231,22,3,2231,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2232,22,3,2232,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2233,22,3,2233,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2234,22,3,2234,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2235,22,3,2235,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2236,22,3,2236,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2237,22,3,2237,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2238,22,3,2238,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2239,22,3,2239,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2240,22,3,2240,City,Central,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2241,22,3,2241,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2242,22,3,2242,City,Central,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2243,22,3,2243,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2244,22,3,2244,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2245,22,3,2245,City,Central,City Centre,City Centre,City Centre,1-Edmonton,NC,NC,NC
+2246,22,3,2246,City,Central,Primary Corridor,Primary Corridor,Primary Corridor,1-Edmonton,NC,NC,NC
+2301,23,7,2301,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2302,23,7,2302,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2303,23,7,2303,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2304,23,7,2304,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2305,23,7,2305,City,Whitemud,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2306,23,7,2306,City,Whitemud,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+2307,23,7,2307,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2308,23,12,2308,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2309,23,12,2309,City,Whitemud,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+2310,23,12,2310,City,Whitemud,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2311,23,12,2311,City,Whitemud,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2312,23,12,2312,City,Whitemud,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2313,23,12,2313,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2314,23,12,2314,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2315,23,7,2315,City,Whitemud,Rest City,Primary Corridor,Rest City,1-Edmonton,City,NC,City
+2316,23,12,2316,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2317,23,7,2317,City,Whitemud,Rest City,Primary Corridor,Rest City,1-Edmonton,City,NC,City
+2318,23,7,2318,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2319,23,12,2319,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2320,23,7,2320,City,Whitemud,Rest City,Primary Corridor,Rest City,1-Edmonton,City,NC,City
+2321,23,7,2321,City,Whitemud,Rest City,Rest City,Primary Corridor,1-Edmonton,City,City,NC
+2322,23,12,2322,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2323,23,12,2323,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2324,23,12,2324,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2325,23,12,2325,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2326,23,12,2326,City,Whitemud,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2327,23,7,2327,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2328,23,12,2328,City,Whitemud,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2401,24,11,2401,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2402,24,11,2402,City,Ellerslie,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+2403,24,11,2403,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2404,24,11,2404,City,Ellerslie,Rest City,Secondary Node,Secondary Corridor,1-Edmonton,City,NC,NC
+2405,24,11,2405,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2406,24,11,2406,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2407,24,11,2407,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2408,24,11,2408,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2409,24,11,2409,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2410,24,11,2410,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2411,24,11,2411,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2412,24,11,2412,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2413,24,11,2413,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2414,24,11,2414,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2415,24,11,2415,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2416,24,11,2416,City,Ellerslie,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+2417,24,11,2417,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2418,24,11,2418,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2419,24,11,2419,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2501,25,12,2501,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2502,25,12,2502,City,Southwest,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2503,25,12,2503,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2504,25,12,2504,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2505,25,12,2505,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2506,25,12,2506,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2507,25,12,2507,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2508,25,12,2508,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2509,25,12,2509,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2510,25,12,2510,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2511,25,12,2511,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2512,25,12,2512,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2513,25,12,2513,City,Southwest,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2514,25,12,2514,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2515,25,12,2515,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2516,25,12,2516,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2517,25,12,2517,City,Southwest,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2518,25,12,2518,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2519,25,12,2519,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2520,25,12,2520,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2521,25,12,2521,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2522,25,12,2522,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2523,25,12,2523,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2524,25,12,2524,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2525,25,12,2525,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2526,25,12,2526,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2527,25,12,2527,City,Southwest,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+2528,25,12,2528,City,Southwest,Rest City,Rest City,Secondary Corridor,1-Edmonton,City,City,NC
+2529,25,12,2529,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2601,26,12,2601,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2602,26,12,2602,City,Southwest,Secondary Node,Secondary Node,Secondary Node,1-Edmonton,NC,NC,NC
+2603,26,12,2603,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2604,26,12,2604,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2605,26,12,2605,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2606,26,12,2606,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2607,26,12,2607,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2608,26,12,2608,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2609,26,12,2609,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2610,26,12,2610,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2611,26,12,2611,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2612,26,12,2612,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2613,26,12,2613,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2614,26,12,2614,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2615,26,12,2615,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2616,26,12,2616,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2617,26,12,2617,City,Southwest,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2701,27,13,2701,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2702,27,13,2702,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2703,27,13,2703,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2704,27,13,2704,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2705,27,13,2705,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2706,27,13,2706,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2707,27,13,2707,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2708,27,13,2708,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2709,27,13,2709,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2710,27,13,2710,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2711,27,13,2711,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2712,27,13,2712,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2713,27,13,2713,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2714,27,13,2714,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2715,27,13,2715,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2716,27,13,2716,City,West Henday,Tertiary Node,Secondary Node,Rest City,1-Edmonton,NC,NC,City
+2717,27,13,2717,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2801,28,9,2801,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2802,28,9,2802,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2803,28,9,2803,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2804,28,9,2804,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2805,28,9,2805,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2806,28,9,2806,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2807,28,9,2807,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2808,28,9,2808,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2809,28,9,2809,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2810,28,9,2810,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2811,28,9,2811,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2901,29,10,2901,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2902,29,10,2902,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2903,29,10,2903,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2904,29,10,2904,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2905,29,10,2905,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2906,29,10,2906,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2907,29,10,2907,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2908,29,10,2908,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2909,29,10,2909,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2910,29,10,2910,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2911,29,10,2911,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2912,29,10,2912,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2913,29,10,2913,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2914,29,10,2914,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2915,29,10,2915,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2916,29,10,2916,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2917,29,10,2917,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2918,29,10,2918,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2919,29,10,2919,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2920,29,10,2920,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2921,29,10,2921,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2922,29,10,2922,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2923,29,10,2923,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2924,29,10,2924,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2925,29,10,2925,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2926,29,10,2926,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2927,29,10,2927,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2928,29,10,2928,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2929,29,10,2929,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2930,29,10,2930,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2931,29,10,2931,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2932,29,10,2932,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2933,29,10,2933,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+2934,29,10,2934,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3001,30,10,3001,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3002,30,10,3002,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3003,30,10,3003,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3004,30,10,3004,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3005,30,10,3005,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3006,30,10,3006,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3007,30,10,3007,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3008,30,10,3008,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3009,30,10,3009,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3010,30,10,3010,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3011,30,10,3011,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3012,30,10,3012,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3013,30,10,3013,City,Horse Hills,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3014,30,10,3014,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3015,30,10,3015,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3016,30,10,3016,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3017,30,10,3017,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3018,30,10,3018,City,Horse Hills,Tertiary Node,Secondary Node,Rest City,1-Edmonton,NC,NC,City
+3019,30,10,3019,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3020,30,10,3020,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3021,30,10,3021,City,Horse Hills,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3022,30,10,3022,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3023,30,10,3023,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3024,30,10,3024,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3025,30,10,3025,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3026,30,10,3026,City,Horse Hills,Tertiary Node,Secondary Node,Rest City,1-Edmonton,NC,NC,City
+3027,30,10,3027,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3028,30,10,3028,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3029,30,10,3029,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3030,30,10,3030,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3031,30,10,3031,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3032,30,10,3032,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3033,30,10,3033,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3034,30,10,3034,City,Horse Hills,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3101,31,11,3101,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3102,31,11,3102,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3103,31,11,3103,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3104,31,11,3104,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3105,31,11,3105,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3106,31,11,3106,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3107,31,11,3107,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3108,31,11,3108,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3109,31,11,3109,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3110,31,11,3110,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3111,31,11,3111,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3112,31,11,3112,City,Northeast,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3201,32,13,3201,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3202,32,13,3202,City,West Edmonton,Rest City,Secondary Node,Primary Corridor,1-Edmonton,City,NC,NC
+3203,32,13,3203,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3204,32,13,3204,City,West Edmonton,Rest City,Secondary Node,Primary Corridor,1-Edmonton,City,NC,NC
+3205,32,13,3205,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3206,32,13,3206,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3207,32,13,3207,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3208,32,13,3208,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3209,32,13,3209,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3210,32,13,3210,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3211,32,13,3211,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3212,32,13,3212,City,West Edmonton,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3301,33,13,3301,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3302,33,13,3302,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3303,33,13,3303,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3304,33,13,3304,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3305,33,13,3305,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3306,33,13,3306,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3307,33,13,3307,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3308,33,13,3308,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3309,33,13,3309,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3310,33,13,3310,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3311,33,13,3311,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3312,33,13,3312,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3313,33,13,3313,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3314,33,13,3314,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3315,33,13,3315,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3316,33,13,3316,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3317,33,13,3317,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3318,33,13,3318,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3319,33,13,3319,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3320,33,13,3320,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3321,33,13,3321,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3401,34,9,3401,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3402,34,9,3402,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3403,34,9,3403,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3404,34,9,3404,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3405,34,9,3405,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3406,34,9,3406,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3407,34,9,3407,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3408,34,9,3408,City,West Henday,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3501,35,11,3501,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3502,35,11,3502,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3503,35,11,3503,City,Ellerslie,Rest City,Secondary Corridor,Secondary Corridor,1-Edmonton,City,NC,NC
+3504,35,11,3504,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3505,35,11,3505,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3506,35,11,3506,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3507,35,11,3507,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3601,36,11,3601,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3602,36,11,3602,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3603,36,11,3603,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3604,36,11,3604,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3605,36,11,3605,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3606,36,11,3606,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3607,36,11,3607,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3608,36,11,3608,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3609,36,11,3609,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3610,36,11,3610,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3611,36,11,3611,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3612,36,11,3612,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3613,36,11,3613,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3614,36,11,3614,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3615,36,11,3615,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3616,36,11,3616,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3617,36,11,3617,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3618,36,11,3618,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3701,37,17,3701,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3702,37,17,3702,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3703,37,17,3703,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3704,37,17,3704,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3705,37,17,3705,City,Rabbit Hill,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3706,37,17,3706,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3707,37,17,3707,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3708,37,17,3708,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3709,37,17,3709,City,Rabbit Hill,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3710,37,17,3710,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3711,37,17,3711,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3712,37,17,3712,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3713,37,17,3713,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3714,37,17,3714,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3715,37,17,3715,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3716,37,17,3716,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3717,37,17,3717,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3718,37,17,3718,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3719,37,17,3719,City,Rabbit Hill,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3720,37,17,3720,City,Rabbit Hill,Rest City,Secondary Node,Rest City,1-Edmonton,City,NC,City
+3801,38,17,3801,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3802,38,17,3802,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3803,38,17,3803,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3804,38,17,3804,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3805,38,17,3805,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3806,38,17,3806,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3807,38,17,3807,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3808,38,17,3808,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3809,38,17,3809,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3810,38,17,3810,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3811,38,17,3811,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3812,38,17,3812,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3813,38,17,3813,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3814,38,17,3814,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3815,38,17,3815,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3816,38,17,3816,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3817,38,17,3817,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3818,38,17,3818,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3819,38,17,3819,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3820,38,17,3820,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3821,38,17,3821,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3822,38,17,3822,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3823,38,17,3823,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3824,38,17,3824,City,Rabbit Hill,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+3901,39,17,3901,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3902,39,17,3902,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3903,39,17,3903,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3904,39,17,3904,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3905,39,17,3905,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3906,39,17,3906,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3907,39,17,3907,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3908,39,17,3908,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3909,39,17,3909,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3910,39,17,3910,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3911,39,17,3911,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3912,39,17,3912,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3913,39,17,3913,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3914,39,17,3914,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+3915,39,17,3915,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4001,40,17,4001,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4002,40,17,4002,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4003,40,17,4003,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4004,40,17,4004,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4005,40,17,4005,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4006,40,17,4006,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4007,40,17,4007,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4008,40,17,4008,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4009,40,17,4009,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4010,40,17,4010,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4011,40,17,4011,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4012,40,17,4012,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4013,40,17,4013,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4014,40,17,4014,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4015,40,17,4015,City,Ellerslie,Rest City,Rest City,Rest City,1-Edmonton,City,City,City
+4101,41,15,4101,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4102,41,15,4102,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4103,41,15,4103,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4104,41,15,4104,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4105,41,15,4105,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4106,41,15,4106,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4107,41,15,4107,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4108,41,15,4108,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4109,41,15,4109,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4110,41,15,4110,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4111,41,15,4111,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4112,41,15,4112,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4113,41,15,4113,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4114,41,15,4114,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4115,41,15,4115,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4116,41,15,4116,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4117,41,15,4117,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4118,41,15,4118,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4119,41,15,4119,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4120,41,15,4120,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4121,41,15,4121,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4122,41,15,4122,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4123,41,15,4123,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4124,41,15,4124,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4125,41,15,4125,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4126,41,15,4126,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4127,41,15,4127,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4128,41,15,4128,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4129,41,15,4129,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4130,41,15,4130,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4131,41,15,4131,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4132,41,15,4132,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4133,41,15,4133,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4134,41,15,4134,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4135,41,15,4135,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4136,41,15,4136,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4137,41,15,4137,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4138,41,15,4138,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4139,41,15,4139,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4140,41,15,4140,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4141,41,15,4141,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4142,41,15,4142,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4143,41,15,4143,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4144,41,15,4144,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4145,41,15,4145,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4146,41,15,4146,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4147,41,15,4147,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4148,41,15,4148,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4149,41,15,4149,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4150,41,15,4150,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4151,41,15,4151,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4152,41,15,4152,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4153,41,15,4153,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4154,41,15,4154,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4155,41,15,4155,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4156,41,15,4156,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4157,41,15,4157,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4158,41,15,4158,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4159,41,15,4159,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4160,41,15,4160,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4161,41,15,4161,Region,Region,Region,Region,Region,2-St. Albert,Region,Region,Region
+4201,42,16,4201,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4202,42,16,4202,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4203,42,16,4203,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4204,42,16,4204,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4205,42,16,4205,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4206,42,16,4206,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4207,42,16,4207,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4208,42,16,4208,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4209,42,16,4209,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4210,42,16,4210,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4211,42,16,4211,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4212,42,16,4212,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4213,42,16,4213,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4214,42,16,4214,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4215,42,16,4215,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4216,42,16,4216,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4217,42,16,4217,Region,Region,Region,Region,Region,3-Fort Saskatchewan,Region,Region,Region
+4301,43,17,4301,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4302,43,17,4302,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4303,43,17,4303,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4304,43,17,4304,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4305,43,17,4305,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4306,43,17,4306,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4307,43,17,4307,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4308,43,17,4308,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4309,43,17,4309,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4310,43,17,4310,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4311,43,17,4311,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4312,43,17,4312,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4313,43,17,4313,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4314,43,17,4314,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4315,43,17,4315,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4316,43,17,4316,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4317,43,17,4317,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4318,43,17,4318,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4319,43,17,4319,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4320,43,17,4320,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4321,43,17,4321,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4322,43,17,4322,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4323,43,17,4323,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4324,43,17,4324,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4325,43,17,4325,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4326,43,17,4326,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4327,43,17,4327,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4328,43,17,4328,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4329,43,17,4329,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4330,43,17,4330,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4331,43,17,4331,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4332,43,17,4332,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4333,43,17,4333,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4334,43,17,4334,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4335,43,17,4335,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4336,43,17,4336,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4337,43,17,4337,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4338,43,17,4338,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4339,43,17,4339,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4340,43,17,4340,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4341,43,17,4341,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4342,43,17,4342,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4343,43,17,4343,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4344,43,17,4344,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4345,43,17,4345,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4346,43,17,4346,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4347,43,17,4347,Region,Region,Region,Region,Region,6-City of Leduc,Region,Region,Region
+4401,44,14,4401,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4402,44,14,4402,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4403,44,14,4403,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4404,44,14,4404,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4405,44,14,4405,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4406,44,14,4406,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4407,44,14,4407,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4408,44,14,4408,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4409,44,14,4409,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4410,44,14,4410,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4411,44,14,4411,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4412,44,14,4412,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4413,44,14,4413,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4414,44,14,4414,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4415,44,14,4415,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4416,44,14,4416,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4417,44,14,4417,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4418,44,14,4418,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4419,44,14,4419,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4420,44,14,4420,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4421,44,14,4421,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4422,44,14,4422,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4423,44,14,4423,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4424,44,14,4424,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4425,44,14,4425,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4426,44,14,4426,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4427,44,14,4427,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4428,44,14,4428,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4429,44,14,4429,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4430,44,14,4430,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4431,44,14,4431,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4432,44,14,4432,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4433,44,14,4433,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4434,44,14,4434,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4435,44,14,4435,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4436,44,14,4436,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4437,44,14,4437,Region,Region,Region,Region,Region,4-Sherwood Park,Region,Region,Region
+4501,45,18,4501,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4502,45,18,4502,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4503,45,18,4503,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4504,45,18,4504,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4505,45,18,4505,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4506,45,18,4506,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4507,45,18,4507,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4508,45,18,4508,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4509,45,18,4509,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4510,45,18,4510,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4511,45,18,4511,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4512,45,18,4512,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4513,45,18,4513,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4514,45,18,4514,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4515,45,18,4515,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4516,45,18,4516,Region,Region,Region,Region,Region,A-Stony Plain,Region,Region,Region
+4601,46,17,4601,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4602,46,17,4602,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4603,46,17,4603,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4604,46,17,4604,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4605,46,17,4605,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4606,46,17,4606,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4607,46,17,4607,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4608,46,17,4608,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4609,46,17,4609,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4610,46,17,4610,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4611,46,17,4611,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4612,46,17,4612,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4613,46,17,4613,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4614,46,17,4614,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4615,46,17,4615,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4616,46,17,4616,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4617,46,17,4617,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4618,46,17,4618,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4619,46,17,4619,Region,Region,Region,Region,Region,8-Beaumont,Region,Region,Region
+4701,47,18,4701,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4702,47,18,4702,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4703,47,18,4703,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4704,47,18,4704,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4705,47,18,4705,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4706,47,18,4706,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4707,47,18,4707,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4708,47,18,4708,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4709,47,18,4709,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4710,47,18,4710,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4711,47,18,4711,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4712,47,18,4712,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4713,47,18,4713,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4714,47,18,4714,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4715,47,18,4715,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4716,47,18,4716,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4717,47,18,4717,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4718,47,18,4718,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4719,47,18,4719,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4720,47,18,4720,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4721,47,18,4721,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4722,47,18,4722,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+4801,48,17,4801,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4802,48,17,4802,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4803,48,17,4803,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4804,48,17,4804,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4805,48,17,4805,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4806,48,17,4806,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4807,48,17,4807,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4808,48,17,4808,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4809,48,17,4809,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4810,48,17,4810,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4811,48,17,4811,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4812,48,17,4812,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4813,48,17,4813,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+4901,49,19,4901,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4902,49,19,4902,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4903,49,19,4903,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4904,49,19,4904,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4905,49,19,4905,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4906,49,19,4906,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4907,49,19,4907,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4908,49,19,4908,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4909,49,19,4909,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4910,49,19,4910,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4911,49,19,4911,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4912,49,19,4912,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4913,49,19,4913,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+4914,49,19,4914,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5001,50,16,5001,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5002,50,16,5002,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5003,50,16,5003,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5004,50,16,5004,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5005,50,16,5005,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5006,50,16,5006,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5007,50,16,5007,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5008,50,16,5008,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5009,50,16,5009,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5010,50,16,5010,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5011,50,16,5011,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5101,51,16,5101,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5102,51,16,5102,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5103,51,16,5103,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5104,51,16,5104,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5105,51,16,5105,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5106,51,16,5106,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5107,51,16,5107,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5108,51,16,5108,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5109,51,16,5109,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5110,51,16,5110,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5111,51,16,5111,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5112,51,16,5112,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5113,51,16,5113,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5114,51,16,5114,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5115,51,16,5115,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5116,51,16,5116,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5117,51,16,5117,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5118,51,16,5118,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5119,51,16,5119,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5120,51,16,5120,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5121,51,16,5121,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5122,51,16,5122,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5123,51,16,5123,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5124,51,16,5124,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5125,51,16,5125,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5126,51,16,5126,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5127,51,16,5127,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5128,51,16,5128,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5129,51,16,5129,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5130,51,16,5130,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5131,51,16,5131,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5132,51,16,5132,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5133,51,16,5133,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5134,51,16,5134,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5135,51,16,5135,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5136,51,16,5136,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5137,51,16,5137,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5138,51,16,5138,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5139,51,16,5139,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5140,51,16,5140,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5141,51,16,5141,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5142,51,16,5142,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5143,51,16,5143,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5144,51,16,5144,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5145,51,16,5145,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5146,51,16,5146,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5147,51,16,5147,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5148,51,16,5148,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5149,51,16,5149,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5150,51,16,5150,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5151,51,16,5151,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5152,51,16,5152,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5201,52,16,5201,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5202,52,16,5202,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5203,52,16,5203,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5204,52,16,5204,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5205,52,16,5205,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5206,52,16,5206,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5207,52,16,5207,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5208,52,16,5208,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5209,52,16,5209,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5210,52,16,5210,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5211,52,16,5211,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5212,52,16,5212,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5213,52,16,5213,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5214,52,16,5214,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5215,52,16,5215,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5216,52,16,5216,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5217,52,16,5217,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5218,52,16,5218,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5219,52,16,5219,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5220,52,16,5220,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5221,52,16,5221,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5222,52,16,5222,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5223,52,16,5223,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5224,52,16,5224,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5225,52,16,5225,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5226,52,16,5226,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5227,52,16,5227,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5228,52,16,5228,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5229,52,16,5229,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5230,52,16,5230,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5231,52,16,5231,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5232,52,16,5232,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5233,52,16,5233,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5234,52,16,5234,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5235,52,16,5235,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5236,52,16,5236,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5237,52,16,5237,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5238,52,16,5238,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5239,52,16,5239,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5240,52,16,5240,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5241,52,16,5241,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5242,52,16,5242,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5243,52,16,5243,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5244,52,16,5244,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5245,52,16,5245,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5246,52,16,5246,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5247,52,16,5247,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5248,52,16,5248,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5249,52,16,5249,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5250,52,16,5250,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5251,52,16,5251,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5252,52,16,5252,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5253,52,16,5253,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5254,52,16,5254,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5255,52,16,5255,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5256,52,16,5256,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5257,52,16,5257,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5258,52,16,5258,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5259,52,16,5259,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5260,52,16,5260,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5261,52,16,5261,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5262,52,16,5262,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5263,52,16,5263,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5264,52,16,5264,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5265,52,16,5265,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5266,52,16,5266,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5267,52,16,5267,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5268,52,16,5268,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5269,52,16,5269,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5270,52,16,5270,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5271,52,16,5271,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5272,52,16,5272,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5273,52,16,5273,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5274,52,16,5274,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5275,52,16,5275,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5276,52,16,5276,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5277,52,16,5277,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5278,52,16,5278,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5279,52,16,5279,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5280,52,16,5280,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5281,52,16,5281,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5282,52,16,5282,Region,Region,Region,Region,Region,5-Strathcona County,Region,Region,Region
+5301,53,17,5301,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5302,53,17,5302,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5303,53,17,5303,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5304,53,17,5304,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5305,53,17,5305,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5306,53,17,5306,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5307,53,17,5307,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5308,53,17,5308,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5309,53,17,5309,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5310,53,17,5310,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5311,53,17,5311,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5312,53,17,5312,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5313,53,17,5313,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5314,53,17,5314,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5315,53,17,5315,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5316,53,17,5316,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5317,53,17,5317,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5318,53,17,5318,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5319,53,17,5319,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5320,53,17,5320,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5321,53,17,5321,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5322,53,17,5322,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5323,53,17,5323,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5324,53,17,5324,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5325,53,17,5325,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5326,53,17,5326,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5327,53,17,5327,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5328,53,17,5328,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5329,53,17,5329,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5330,53,17,5330,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5331,53,17,5331,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5332,53,17,5332,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5333,53,17,5333,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5334,53,17,5334,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5335,53,17,5335,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5336,53,17,5336,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5337,53,17,5337,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5338,53,17,5338,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5339,53,17,5339,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5340,53,17,5340,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5341,53,17,5341,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5342,53,17,5342,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5343,53,17,5343,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5401,54,17,5401,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5402,54,17,5402,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5403,54,17,5403,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5404,54,17,5404,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5405,54,17,5405,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5406,54,17,5406,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5407,54,17,5407,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5408,54,17,5408,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5409,54,17,5409,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5410,54,17,5410,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5411,54,17,5411,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5412,54,17,5412,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5413,54,17,5413,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5414,54,17,5414,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5415,54,17,5415,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5416,54,17,5416,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5417,54,17,5417,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5418,54,17,5418,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5419,54,17,5419,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5420,54,17,5420,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5421,54,17,5421,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5422,54,17,5422,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5423,54,17,5423,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5424,54,17,5424,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5425,54,17,5425,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5426,54,17,5426,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5427,54,17,5427,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5428,54,17,5428,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5429,54,17,5429,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5430,54,17,5430,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5431,54,17,5431,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5432,54,17,5432,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5433,54,17,5433,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5434,54,17,5434,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5435,54,17,5435,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5436,54,17,5436,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5437,54,17,5437,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5438,54,17,5438,Region,Region,Region,Region,Region,7-Leduc County,Region,Region,Region
+5501,55,18,5501,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5502,55,18,5502,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5503,55,18,5503,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5504,55,18,5504,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5505,55,18,5505,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5506,55,18,5506,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5507,55,18,5507,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5508,55,18,5508,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5509,55,18,5509,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5510,55,18,5510,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5511,55,18,5511,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5512,55,18,5512,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5513,55,18,5513,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5514,55,18,5514,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5515,55,18,5515,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5516,55,18,5516,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5517,55,18,5517,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5518,55,18,5518,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5519,55,18,5519,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5520,55,18,5520,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5521,55,18,5521,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5522,55,18,5522,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5523,55,18,5523,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5524,55,18,5524,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5525,55,18,5525,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5526,55,18,5526,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5527,55,18,5527,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5528,55,18,5528,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5529,55,18,5529,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5530,55,18,5530,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5531,55,18,5531,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5532,55,18,5532,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5533,55,18,5533,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5534,55,18,5534,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5535,55,18,5535,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5536,55,18,5536,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5537,55,18,5537,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5538,55,18,5538,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5539,55,18,5539,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5540,55,18,5540,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5541,55,18,5541,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5542,55,18,5542,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5543,55,18,5543,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5544,55,18,5544,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5545,55,18,5545,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5546,55,18,5546,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5547,55,18,5547,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5548,55,18,5548,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5549,55,18,5549,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5550,55,18,5550,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5551,55,18,5551,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5552,55,18,5552,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5553,55,18,5553,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5554,55,18,5554,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5555,55,18,5555,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5556,55,18,5556,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5557,55,18,5557,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5558,55,18,5558,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5559,55,18,5559,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5560,55,18,5560,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5561,55,18,5561,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5562,55,18,5562,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5563,55,18,5563,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5564,55,18,5564,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5565,55,18,5565,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5566,55,18,5566,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5567,55,18,5567,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5568,55,18,5568,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5569,55,18,5569,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5570,55,18,5570,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5571,55,18,5571,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5572,55,18,5572,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5573,55,18,5573,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5574,55,18,5574,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5575,55,18,5575,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5601,56,18,5601,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5602,56,18,5602,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5603,56,18,5603,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5604,56,18,5604,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5605,56,18,5605,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5606,56,18,5606,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5607,56,18,5607,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5608,56,18,5608,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5609,56,18,5609,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5610,56,18,5610,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5611,56,18,5611,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5612,56,18,5612,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5613,56,18,5613,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5614,56,18,5614,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5615,56,18,5615,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5616,56,18,5616,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5617,56,18,5617,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5618,56,18,5618,Region,Region,Region,Region,Region,B-Parkland County,Region,Region,Region
+5701,57,19,5701,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5702,57,19,5702,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5703,57,19,5703,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5704,57,19,5704,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5705,57,19,5705,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5706,57,19,5706,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5707,57,19,5707,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5708,57,19,5708,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5709,57,19,5709,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5710,57,19,5710,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5711,57,19,5711,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5712,57,19,5712,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5713,57,19,5713,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5714,57,19,5714,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5715,57,19,5715,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5716,57,19,5716,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5717,57,19,5717,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5718,57,19,5718,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5719,57,19,5719,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5720,57,19,5720,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5721,57,19,5721,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5722,57,19,5722,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5723,57,19,5723,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5724,57,19,5724,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5725,57,19,5725,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5726,57,19,5726,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5727,57,19,5727,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5728,57,19,5728,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5729,57,19,5729,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5730,57,19,5730,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5731,57,19,5731,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5732,57,19,5732,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5733,57,19,5733,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5734,57,19,5734,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5735,57,19,5735,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5736,57,19,5736,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5737,57,19,5737,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5738,57,19,5738,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5739,57,19,5739,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5740,57,19,5740,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5741,57,19,5741,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5742,57,19,5742,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5743,57,19,5743,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5744,57,19,5744,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5745,57,19,5745,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5746,57,19,5746,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5747,57,19,5747,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5748,57,19,5748,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5749,57,19,5749,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5750,57,19,5750,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5751,57,19,5751,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5752,57,19,5752,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5753,57,19,5753,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5754,57,19,5754,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5755,57,19,5755,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5756,57,19,5756,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5757,57,19,5757,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5758,57,19,5758,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5759,57,19,5759,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5760,57,19,5760,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5761,57,19,5761,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5762,57,19,5762,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5763,57,19,5763,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5764,57,19,5764,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5765,57,19,5765,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5766,57,19,5766,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5767,57,19,5767,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5768,57,19,5768,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5769,57,19,5769,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5770,57,19,5770,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5771,57,19,5771,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5772,57,19,5772,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5773,57,19,5773,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5774,57,19,5774,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5775,57,19,5775,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5776,57,19,5776,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5777,57,19,5777,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5778,57,19,5778,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5779,57,19,5779,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5780,57,19,5780,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5781,57,19,5781,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5782,57,19,5782,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5783,57,19,5783,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5784,57,19,5784,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5785,57,19,5785,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5786,57,19,5786,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5787,57,19,5787,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5788,57,19,5788,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5789,57,19,5789,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5790,57,19,5790,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5791,57,19,5791,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5792,57,19,5792,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5793,57,19,5793,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5794,57,19,5794,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5795,57,19,5795,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5801,58,19,5801,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5802,58,19,5802,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5803,58,19,5803,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5804,58,19,5804,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5805,58,19,5805,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5806,58,19,5806,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5807,58,19,5807,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5808,58,19,5808,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5809,58,19,5809,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5810,58,19,5810,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5811,58,19,5811,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5812,58,19,5812,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5813,58,19,5813,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5814,58,19,5814,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5815,58,19,5815,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5816,58,19,5816,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5817,58,19,5817,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5818,58,19,5818,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5819,58,19,5819,Region,Region,Region,Region,Region,C-Sturgeon County,Region,Region,Region
+5901,59,19,5901,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5902,59,19,5902,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5903,59,19,5903,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5904,59,19,5904,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5905,59,19,5905,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5906,59,19,5906,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5907,59,19,5907,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5908,59,19,5908,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5909,59,19,5909,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5910,59,19,5910,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5911,59,19,5911,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5912,59,19,5912,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5913,59,19,5913,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5914,59,19,5914,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5915,59,19,5915,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5916,59,19,5916,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5917,59,19,5917,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+5918,59,18,5918,Region,Region,Region,Region,Region,D-Lamont County,Region,Region,Region
+6001,60,18,6001,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6002,60,18,6002,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6003,60,18,6003,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6004,60,18,6004,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6005,60,18,6005,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6006,60,18,6006,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6007,60,18,6007,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6008,60,18,6008,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6009,60,18,6009,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6010,60,18,6010,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6011,60,18,6011,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6012,60,18,6012,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6013,60,18,6013,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6014,60,18,6014,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6015,60,18,6015,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6016,60,18,6016,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6017,60,18,6017,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6018,60,18,6018,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6019,60,18,6019,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6020,60,18,6020,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6021,60,18,6021,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
+6022,60,18,6022,Region,Region,Region,Region,Region,9-Spruce Grove,Region,Region,Region
