@@ -1,5 +1,5 @@
 /*.csv
 .idea/
 venv/
-output/*.csv
-output/*.csv.br
+output/*.json
+output/*.json.br

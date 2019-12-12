@@ -1,7 +1,7 @@
 # Trip Cluster Tool Data
 This project creates data for the [trip-cluster-tool](https://github.com/thomaslorincz/trip-cluster-tool) project
 ## Requirements
-- Python >=3.5
+- Python >=3.4
 ## Setup
 ### Install Dependencies
 ```
@@ -23,5 +23,5 @@ python main.py total_trips_2020.csv
 Note: The main script may run for a long time because it compresses the output.
 The larger the raw output, the longer it takes to compress.
 ## Output
-The script will output 2 files in the output directory: ```od.csv``` (raw) and ```od.csv.br``` (compressed).
-Due to the large size of the raw file, it is recommended to only commit ```od.csv.br``` to the [trip-cluster-tool](https://github.com/thomaslorincz/trip-cluster-tool) project.
+The script will output 2 files in the output directory: ```od.json``` (raw) and ```od.json.br``` (compressed).
+Due to the large size of the raw file, it is recommended to only commit ```od.json.br``` to the [trip-cluster-tool](https://github.com/thomaslorincz/trip-cluster-tool) project.
